@@ -30,11 +30,11 @@ O exemplo do resultado do desafio, [clicando aqui](https://codelabs-36174.web.ap
 1. Quando a tela for menor que `825px`, mostre a imagem `tomate.png` abaixo e a esquerda dos textos
 1. Quando a tela for menor que `625px`, limite os textos em `360px`
 1. Quando a tela for menor que `625px`, não mostre o link de `Feedback`
-1. Quando a tela for menor que `825px`, não mostre a imagem `compras.png`
-1. Quando a tela for menor que `625px`, limite a altura do header em `200px`
-1. Quando a tela for menor que `625px`, limite os textos em `300px`
-1. Quando a tela for menor que `625px`, Diminua o título e o subtítulo
-1. Quando a tela for menor que `825px`, não mostre a imagem `tomate.png`
+1. Quando a tela for menor que `625px`, não mostre a imagem `compras.png`
+1. Quando a tela for menor que `375px`, limite a altura do header em `200px`
+1. Quando a tela for menor que `375px`, limite os textos em `300px`
+1. Quando a tela for menor que `375px`, Diminua o título e o subtítulo
+1. Quando a tela for menor que `375px`, não mostre a imagem `tomate.png`
 
 ## Como começar o projeto?
 
