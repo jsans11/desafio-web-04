@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+header {
+  height: 600px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+}
+
+header .conteudo {
+  width: 700px;
+  text-align: center;
+}
+
+header h2 {
+  font: 60px "Roboto", sans-serif;
+  color: #ea1d2c;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+header h3 {
+  font: 30px "Roboto", sans-serif;
+  color: #6e6e6e;
+}
+
+header .botao-feedback {
+  position: absolute;
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+  right: -32px;
+  background: #ea1d2c;
+  font: 14px "Roboto", sans-serif;
+  color: #fff;
+  padding: 16px 22px;
+}
+
+header .botao-feedback:hover {
+  background: tomato;
+}
+
+header .icone-lata {
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+
+header .icone-frigideira {
+  height: 400px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+/*# sourceMappingURL=style.css.map */
